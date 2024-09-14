@@ -1,1 +1,1 @@
-Netologe task
+Netology task
